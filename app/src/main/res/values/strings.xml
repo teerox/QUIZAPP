@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QUIZ APP</string>
+    <string name="question_one">1.When did Nigeria gain its independence?</string>
+    <string name="start">Start</string>
+    <string name="enter_your_full_name_here">ENTER YOUR FULL NAME HERE</string>
+    <string name="final_grade_display">%s\'s final score is %d</string>
+    <string name="wrong_answer">Wrong Answer B was Right Answer</string>
+    <string name="right_answer">Right Answer</string>
+    <string name="restart">Restart</string>
+    <string name="finish">Finish</string>
+    <string name="a_right_answer">Wrong Answer A was Right Answer</string>
+    <string name="next">Next</string>
+</resources>
